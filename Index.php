@@ -1,3 +1,3 @@
 <?
-echo "It's Laravel";
+echo "It's Laravel new branch";
 ?>
