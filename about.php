@@ -1,3 +1,3 @@
 <?
-echo "about";
+echo "about us";
 ?>
