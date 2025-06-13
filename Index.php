@@ -1,3 +1,3 @@
 <?
-echo "It's Laracel";
+echo "It's Laravel";
 ?>
